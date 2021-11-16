@@ -3,7 +3,7 @@
   
 <script src="http://cloud.github.com/downloads/malup/cycle/jquery.cycle.all.latest.js"></script>
 <script>window.jQuery || document.write("<script src='jquery.cycle.all.latest.js'>\x3C/script>")</script>
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages testing
 
 You can use the [editor on GitHub](https://github.com/yourlilpal/webserverlab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
