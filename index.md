@@ -3,9 +3,9 @@
   
 <script src="http://cloud.github.com/downloads/malup/cycle/jquery.cycle.all.latest.js"></script>
 <script>window.jQuery || document.write("<script src='jquery.cycle.all.latest.js'>\x3C/script>")</script>
-## Welcome to GitHub Pages testing
+## Welcome to GitHub Pages 
 
-You can use the [editor on GitHub](https://github.com/yourlilpal/webserverlab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/yourlilpal/webserverlab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.hello world
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
